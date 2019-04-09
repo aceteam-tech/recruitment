@@ -48,8 +48,8 @@ TODO
 | Interested in languages and technologies above the main professional ones. | What was the last technology, you have learnt in your spare time? |
 | Experience with TDD/BDD/other practices that supports the process of development | Have you ever worked with TDD/BDD or other practices that supports the process of development? |
 
-# Behavior Interview
----
+# Behavioral Interview
+
 ## The person who demonstrated skill of conflict resolution instead of running away from problems / blaming others
 - Is conflict in the workplace something positive or negative? 
 Should it be encouraged or avoided? 
